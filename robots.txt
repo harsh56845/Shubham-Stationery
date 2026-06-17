@@ -1,0 +1,5 @@
+# robots.txt for Shubham Stationery
+User-agent: *
+Allow: /
+
+Sitemap: https://shubhamstationery.in/sitemap.xml

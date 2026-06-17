@@ -1,0 +1,14 @@
+{
+  "name": "shubham-stationery",
+  "version": "1.0.0",
+  "description": "Premium Stationery Website for Shubham Stationery",
+  "scripts": {
+    "dev": "npx -y http-server -p 3000"
+  },
+  "keywords": [
+    "stationery",
+    "website"
+  ],
+  "author": "Nirmal Jayantilal Jain",
+  "license": "ISC"
+}
